@@ -23,7 +23,9 @@ members = [
 
 [workspace.package]
 version = "0.1.0"
-
+```
+and
+```bash
 $ cat my_lib/Cargo.toml
 [package]
 name = "my_lib"
